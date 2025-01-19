@@ -1,1 +1,1 @@
-# This is an intial project
+# This is an initial project
